@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##A lightweight and flexible java utility for simplified file handling operations. This project provides a clean, reusable interface for reading, writing, appending, and managing files of various types (e.g., .txt, .csv, .json, etc.) with added support for error handling, logging, and customizable file modes.
+A lightweight and flexible java utility for simplified file handling operations. This project provides a clean, reusable interface for reading, writing, appending, and managing files of various types (e.g., .txt, .csv, .json, etc.) with added support for error handling, logging, and customizable file modes.
 
 Features:
 
@@ -40,6 +40,6 @@ Managing configuration files
 
 Quick prototyping and testing of file-based workflows
 
-##OUTPUT
+## OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/177392e0-1414-465b-8adb-4805fed39741)
