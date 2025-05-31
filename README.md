@@ -39,3 +39,7 @@ Building CLI tools
 Managing configuration files
 
 Quick prototyping and testing of file-based workflows
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/177392e0-1414-465b-8adb-4805fed39741)
